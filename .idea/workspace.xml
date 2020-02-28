@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1afb2c0e-f3a6-40cc-9d07-e8f8ede7d4e9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +68,27 @@
       <recent name="C:\Users\tso113\IdeaProjects\kotlin-beginners\src\main\kotlin\simpleSearchEngine" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.OneWordTest">
+  <component name="RunManager" selected="Gradle.FizzBuzzTest">
+    <configuration name="FizzBuzzTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;fizzBuzzTest.FizzBuzzTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
     <configuration name="OneWordTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -115,19 +135,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WordTotalKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="kotlin-beginners.main" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="WordTotalKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="simpleSearchEngine.SimpleSearchEngineStage4Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="kotlin-beginners.main" />
       <option name="VM_PARAMETERS" />
@@ -143,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.FizzBuzzTest" />
         <item itemvalue="Gradle.OneWordTest" />
         <item itemvalue="Kotlin.MessingKt" />
         <item itemvalue="Kotlin.simpleSearchEngine.SimpleSearchEngineStage4Kt" />
         <item itemvalue="Kotlin.WordCountKt" />
-        <item itemvalue="Kotlin.WordTotalKt" />
       </list>
     </recent_temporary>
   </component>
@@ -183,28 +190,28 @@
     </state>
     <state x="-1180" y="276" key="FileChooserDialogImpl/0.0.1280.680/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1582548089661" />
     <state x="493" y="180" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1582623644205" />
-    <state width="1860" height="259" key="GridCell.Tab.0.bottom" timestamp="1582886589920">
+    <state width="1860" height="259" key="GridCell.Tab.0.bottom" timestamp="1582887741041">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="259" key="GridCell.Tab.0.bottom/0.0.1280.680/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1582886589920" />
+    <state width="1860" height="259" key="GridCell.Tab.0.bottom/0.0.1280.680/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1582887741041" />
     <state width="1237" height="150" key="GridCell.Tab.0.bottom/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1582801465603" />
     <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1580933676130" />
-    <state width="1860" height="259" key="GridCell.Tab.0.center" timestamp="1582886589918">
+    <state width="1860" height="259" key="GridCell.Tab.0.center" timestamp="1582887741040">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="259" key="GridCell.Tab.0.center/0.0.1280.680/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1582886589918" />
+    <state width="1860" height="259" key="GridCell.Tab.0.center/0.0.1280.680/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1582887741040" />
     <state width="1237" height="150" key="GridCell.Tab.0.center/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1582801465603" />
     <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1580933676130" />
-    <state width="1860" height="259" key="GridCell.Tab.0.left" timestamp="1582886589915">
+    <state width="1860" height="259" key="GridCell.Tab.0.left" timestamp="1582887741040">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="259" key="GridCell.Tab.0.left/0.0.1280.680/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1582886589915" />
+    <state width="1860" height="259" key="GridCell.Tab.0.left/0.0.1280.680/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1582887741040" />
     <state width="1237" height="150" key="GridCell.Tab.0.left/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1582801465602" />
     <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1580933676130" />
-    <state width="1860" height="259" key="GridCell.Tab.0.right" timestamp="1582886589918">
+    <state width="1860" height="259" key="GridCell.Tab.0.right" timestamp="1582887741041">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="259" key="GridCell.Tab.0.right/0.0.1280.680/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1582886589918" />
+    <state width="1860" height="259" key="GridCell.Tab.0.right/0.0.1280.680/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1582887741041" />
     <state width="1237" height="150" key="GridCell.Tab.0.right/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1582801465603" />
     <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1580933676130" />
     <state width="1877" height="372" key="GridCell.Tab.1.bottom" timestamp="1581689464042">

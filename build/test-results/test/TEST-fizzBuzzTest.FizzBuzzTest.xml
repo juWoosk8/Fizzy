@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="fizzBuzzTest.FizzBuzzTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-02-28T11:02:05" hostname="VI-LLLR0AJGUC" time="0.141">
+<testsuite name="fizzBuzzTest.FizzBuzzTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2020-02-28T11:32:12" hostname="VI-LLLR0AJGUC" time="0.186">
   <properties/>
-  <testcase name="should return 1 given 1 ()" classname="fizzBuzzTest.FizzBuzzTest" time="0.141"/>
+  <testcase name="should return Fizz given 3 ()" classname="fizzBuzzTest.FizzBuzzTest" time="0.129"/>
+  <testcase name="should return Fizz given 6 ()" classname="fizzBuzzTest.FizzBuzzTest" time="0.003"/>
+  <testcase name="should return 2 given 2 ()" classname="fizzBuzzTest.FizzBuzzTest" time="0.001"/>
+  <testcase name="should return Buzz given 10 ()" classname="fizzBuzzTest.FizzBuzzTest" time="0.002"/>
+  <testcase name="should return 1 given 1 ()" classname="fizzBuzzTest.FizzBuzzTest" time="0.008"/>
+  <testcase name="should return Buzz given 5 ()" classname="fizzBuzzTest.FizzBuzzTest" time="0.0"/>
+  <testcase name="should return FizzBuzz given 15 ()" classname="fizzBuzzTest.FizzBuzzTest" time="0.027"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
