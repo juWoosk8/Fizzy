@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="jlpCodingChallenges.SokobanMoveTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2020-02-28T17:18:38" hostname="VI-LLLR0AJGUC" time="0.195">
+  <properties/>
+  <testcase name="should return unchanged array when move is illegal ()" classname="jlpCodingChallenges.SokobanMoveTest" time="0.122"/>
+  <testcase name="should return changed array with b moved when move is left and left char is b ()" classname="jlpCodingChallenges.SokobanMoveTest" time="0.038"/>
+  <testcase name="should return changed array with P when move is left and left char is * ()" classname="jlpCodingChallenges.SokobanMoveTest" time="0.002"/>
+  <testcase name="should return unchanged array with b moved when move is left and left char is b against a box ()" classname="jlpCodingChallenges.SokobanMoveTest" time="0.002"/>
+  <testcase name="should return changed array with b moved when move is left and left char is b against a * ()" classname="jlpCodingChallenges.SokobanMoveTest" time="0.002"/>
+  <testcase name="should return unchanged array when move is left and left char is # ()" classname="jlpCodingChallenges.SokobanMoveTest" time="0.002"/>
+  <testcase name="should return changed array when move is left and left char is space ()" classname="jlpCodingChallenges.SokobanMoveTest" time="0.002"/>
+  <testcase name="should return unchanged array with b moved when move is left and left char is b against a wall ()" classname="jlpCodingChallenges.SokobanMoveTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
