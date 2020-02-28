@@ -14,4 +14,17 @@ internal class FizzBuzzTest {
         assertThat(result).isEqualTo("1")
     }
 
+    @Test
+
+    fun `should return 2 given 2 `() {
+        val result = fizzbuzz("2")
+        assertThat(result).isEqualTo("2")
+    }
+
+    @Test
+
+    fun `should return Fizz given 3 `() {
+        val result = fizzbuzz("3")
+        assertThat(result).isEqualTo("Fizz")
+    }
 }
