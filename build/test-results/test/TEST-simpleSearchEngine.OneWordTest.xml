@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="simpleSearchEngine.OneWordTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-02-28T10:16:11" hostname="VI-LLLR0AJGUC" time="0.441">
-  <properties/>
-  <testcase name="should find word in position 3 ()" classname="simpleSearchEngine.OneWordTest" time="0.416"/>
-  <testcase name="should say Not found if not found()" classname="simpleSearchEngine.OneWordTest" time="0.001"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
