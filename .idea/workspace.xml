@@ -9,7 +9,6 @@
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/jlpCodingChallenges/Challenge3Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/jlpCodingChallenges/Challenge3Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/test/jlpCodingChallenges/SokobanMoveTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/test/jlpCodingChallenges/SokobanMoveTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/build-history.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.values.at" afterDir="false" />
@@ -43,23 +42,11 @@
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.values.at" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab.len" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab_i" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/lookups/counters.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/lookups/counters.tab" afterDir="false" />
@@ -72,16 +59,12 @@
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab.values.at" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab_i" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.len" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab_i" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/last-build.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/jlpCodingChallenges.SokobanMoveTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/jlpCodingChallenges.SokobanMoveTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/jlpCodingChallenges.SokobanMoveTest.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/jlpCodingChallenges.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/jlpCodingChallenges.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-jlpCodingChallenges.SokobanMoveTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-jlpCodingChallenges.SokobanMoveTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-jlpCodingChallenges.SokobanMoveTest.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/jlpCodingChallenges/challenge3.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/jlpCodingChallenges/challenge3.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/kotlin/jlpCodingChallenges/challenge3Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/kotlin/jlpCodingChallenges/challenge3Test.kt" afterDir="false" />
@@ -150,13 +133,33 @@
       <recent name="C:\Users\tso113\IdeaProjects\kotlin-beginners\src\main\kotlin\simpleSearchEngine" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.SokobanMoveTest">
+  <component name="RunManager" selected="Gradle.SokobanMoveTest2">
     <configuration name="SokobanMoveTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
         <option name="scriptParameters" value="--tests &quot;jlpCodingChallenges.SokobanMoveTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="SokobanMoveTest2" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;jlpCodingChallenges.SokobanMoveTest2&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -211,26 +214,6 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="SokobanMoveTest.should return changed array with b moved when move is right and right char is b " type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;jlpCodingChallenges.SokobanMoveTest.should return changed array with b moved when move is right and right char is b &quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":cleanTest" />
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
     <configuration name="SokobanMoveTest.should return unchanged array when move is illegal " type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -253,11 +236,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.SokobanMoveTest2" />
         <item itemvalue="Gradle.SokobanMoveTest" />
         <item itemvalue="Gradle.SokobanMoveTest.should return changed array with b moved when move is right and right char is b against a * " />
         <item itemvalue="Gradle.SokobanMoveTest.should return changed array with b moved when move is left and left char is b against a * " />
         <item itemvalue="Gradle.SokobanMoveTest.should return unchanged array when move is illegal " />
-        <item itemvalue="Gradle.SokobanMoveTest.should return changed array with b moved when move is right and right char is b " />
       </list>
     </recent_temporary>
   </component>
@@ -293,30 +276,30 @@
     </state>
     <state x="-1180" y="276" key="FileChooserDialogImpl/0.0.1280.680/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1582548089661" />
     <state x="493" y="180" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1582623644205" />
-    <state width="1237" height="55" key="GridCell.Tab.0.bottom" timestamp="1582992168995">
+    <state width="1237" height="56" key="GridCell.Tab.0.bottom" timestamp="1583006401254">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1877" height="267" key="GridCell.Tab.0.bottom/0.0.1280.680/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1582911731142" />
     <state width="1237" height="150" key="GridCell.Tab.0.bottom/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1582801465603" />
-    <state width="1237" height="55" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1582992168995" />
-    <state width="1237" height="55" key="GridCell.Tab.0.center" timestamp="1582992168994">
+    <state width="1237" height="56" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1583006401254" />
+    <state width="1237" height="56" key="GridCell.Tab.0.center" timestamp="1583006401254">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1877" height="267" key="GridCell.Tab.0.center/0.0.1280.680/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1582911731141" />
     <state width="1237" height="150" key="GridCell.Tab.0.center/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1582801465603" />
-    <state width="1237" height="55" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1582992168994" />
-    <state width="1237" height="55" key="GridCell.Tab.0.left" timestamp="1582992168994">
+    <state width="1237" height="56" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1583006401254" />
+    <state width="1237" height="56" key="GridCell.Tab.0.left" timestamp="1583006401254">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1877" height="267" key="GridCell.Tab.0.left/0.0.1280.680/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1582911731140" />
     <state width="1237" height="150" key="GridCell.Tab.0.left/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1582801465602" />
-    <state width="1237" height="55" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1582992168994" />
-    <state width="1237" height="55" key="GridCell.Tab.0.right" timestamp="1582992168994">
+    <state width="1237" height="56" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1583006401254" />
+    <state width="1237" height="56" key="GridCell.Tab.0.right" timestamp="1583006401254">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1877" height="267" key="GridCell.Tab.0.right/0.0.1280.680/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1582911731141" />
     <state width="1237" height="150" key="GridCell.Tab.0.right/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1582801465603" />
-    <state width="1237" height="55" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1582992168994" />
+    <state width="1237" height="56" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1583006401254" />
     <state width="1877" height="372" key="GridCell.Tab.1.bottom" timestamp="1581689464042">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
