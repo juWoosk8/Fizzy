@@ -1,0 +1,45 @@
+here0 #     pb b  #
+here1 p pos 6
+here2 b pos 7
+here0 #     bp b  #
+here1 p pos 7
+here2 b pos 6
+here0 # p*        #
+here1 p pos 2
+here2 * pos 3
+here0 #*p         #
+here1 p pos 2
+here2 * pos 1
+here0 #        bpb#
+here1 p pos 10
+here2 b pos 11
+here0 #bbp     b  #
+here1 p pos 3
+here2 b pos 2
+	here0 #*bp     b  #
+	here1 p pos 3
+	here2 b pos 2
+
+here0 #   b    pbb#
+
+here1 p pos 9
+
+here2 b pos 10
+here0 #p        * #
+here1 p pos 1
+here2 # pos 0
+here0 # p       * #
+here1 p pos 2
+here2   pos 1
+here0 #bp      b  #
+here1 p pos 2
+here2 b pos 1
+here0 #         *p#
+here1 p pos 11
+here2 # pos 12
+here0 # p       * #
+here1 p pos 2
+here2   pos 3
+here0 # pb*    b  #
+here1 p pos 2
+here2 b pos 3
