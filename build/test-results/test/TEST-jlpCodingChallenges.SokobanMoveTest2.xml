@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="jlpCodingChallenges.SokobanMoveTest2" tests="14" skipped="0" failures="0" errors="0" timestamp="2020-02-29T20:03:30" hostname="VI-LLLR0AJGUC" time="0.167">
+<testsuite name="jlpCodingChallenges.SokobanMoveTest2" tests="14" skipped="0" failures="0" errors="0" timestamp="2020-02-29T20:18:52" hostname="VI-LLLR0AJGUC" time="0.185">
   <properties/>
-  <testcase name="should return changed array with b moved when move is right and right char is b ()" classname="jlpCodingChallenges.SokobanMoveTest2" time="0.137"/>
-  <testcase name="should return changed array with b moved when move is left and left char is b ()" classname="jlpCodingChallenges.SokobanMoveTest2" time="0.002"/>
+  <testcase name="should return changed array with b moved when move is right and right char is b ()" classname="jlpCodingChallenges.SokobanMoveTest2" time="0.12"/>
+  <testcase name="should return changed array with b moved when move is left and left char is b ()" classname="jlpCodingChallenges.SokobanMoveTest2" time="0.001"/>
   <testcase name="should return changed array with P when move is right and right char is * ()" classname="jlpCodingChallenges.SokobanMoveTest2" time="0.001"/>
   <testcase name="should return changed array with P when move is left and left char is * ()" classname="jlpCodingChallenges.SokobanMoveTest2" time="0.001"/>
-  <testcase name="should return unchanged array with b moved when move is right and right char is b against a wall ()" classname="jlpCodingChallenges.SokobanMoveTest2" time="0.003"/>
-  <testcase name="should return unchanged array with b moved when move is left and left char is b against a box ()" classname="jlpCodingChallenges.SokobanMoveTest2" time="0.003"/>
+  <testcase name="should return unchanged array with b moved when move is right and right char is b against a wall ()" classname="jlpCodingChallenges.SokobanMoveTest2" time="0.0"/>
+  <testcase name="should return unchanged array with b moved when move is left and left char is b against a box ()" classname="jlpCodingChallenges.SokobanMoveTest2" time="0.001"/>
   <testcase name="should return changed array with b moved when move is left and left char is b against a * ()" classname="jlpCodingChallenges.SokobanMoveTest2" time="0.001"/>
-  <testcase name="should return unchanged array with b moved when move is right and right char is b against a box ()" classname="jlpCodingChallenges.SokobanMoveTest2" time="0.0"/>
+  <testcase name="should return unchanged array with b moved when move is right and right char is b against a box ()" classname="jlpCodingChallenges.SokobanMoveTest2" time="0.001"/>
   <testcase name="should return changed array when move is left and left char is space ()" classname="jlpCodingChallenges.SokobanMoveTest2" time="0.001"/>
-  <testcase name="should return unchanged array with b moved when move is left and left char is b against a wall ()" classname="jlpCodingChallenges.SokobanMoveTest2" time="0.001"/>
-  <testcase name="should return unchanged array when move is right and right char is # ()" classname="jlpCodingChallenges.SokobanMoveTest2" time="0.0"/>
-  <testcase name="should return changed array when move is right and right char is space ()" classname="jlpCodingChallenges.SokobanMoveTest2" time="0.0"/>
-  <testcase name="should return changed array with b moved when move is right and right char is b against a * ()" classname="jlpCodingChallenges.SokobanMoveTest2" time="0.0"/>
+  <testcase name="should return unchanged array with b moved when move is left and left char is b against a wall ()" classname="jlpCodingChallenges.SokobanMoveTest2" time="0.021"/>
+  <testcase name="should return unchanged array when move is right and right char is # ()" classname="jlpCodingChallenges.SokobanMoveTest2" time="0.004"/>
+  <testcase name="should return changed array when move is right and right char is space ()" classname="jlpCodingChallenges.SokobanMoveTest2" time="0.004"/>
+  <testcase name="should return changed array with b moved when move is right and right char is b against a * ()" classname="jlpCodingChallenges.SokobanMoveTest2" time="0.002"/>
   <testcase name="should return unchanged array when move is down and down char is # ()" classname="jlpCodingChallenges.SokobanMoveTest2" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>

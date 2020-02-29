@@ -174,6 +174,26 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
+    <configuration name="SokobanMoveTest2.should return unchanged array when move is down and down char is # " type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;jlpCodingChallenges.SokobanMoveTest2.should return unchanged array when move is down and down char is # &quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
     <configuration name="SokobanMoveTest.should return changed array with b moved when move is left and left char is b against a * " type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -214,33 +234,13 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="SokobanMoveTest.should return unchanged array when move is illegal " type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;jlpCodingChallenges.SokobanMoveTest.should return unchanged array when move is illegal &quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":cleanTest" />
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Gradle.SokobanMoveTest2" />
+        <item itemvalue="Gradle.SokobanMoveTest2.should return unchanged array when move is down and down char is # " />
         <item itemvalue="Gradle.SokobanMoveTest" />
         <item itemvalue="Gradle.SokobanMoveTest.should return changed array with b moved when move is right and right char is b against a * " />
         <item itemvalue="Gradle.SokobanMoveTest.should return changed array with b moved when move is left and left char is b against a * " />
-        <item itemvalue="Gradle.SokobanMoveTest.should return unchanged array when move is illegal " />
       </list>
     </recent_temporary>
   </component>
@@ -276,30 +276,30 @@
     </state>
     <state x="-1180" y="276" key="FileChooserDialogImpl/0.0.1280.680/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1582548089661" />
     <state x="493" y="180" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1582623644205" />
-    <state width="1237" height="56" key="GridCell.Tab.0.bottom" timestamp="1583006401254">
+    <state width="1237" height="328" key="GridCell.Tab.0.bottom" timestamp="1583006644084">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1877" height="267" key="GridCell.Tab.0.bottom/0.0.1280.680/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1582911731142" />
     <state width="1237" height="150" key="GridCell.Tab.0.bottom/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1582801465603" />
-    <state width="1237" height="56" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1583006401254" />
-    <state width="1237" height="56" key="GridCell.Tab.0.center" timestamp="1583006401254">
+    <state width="1237" height="328" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1583006644084" />
+    <state width="1237" height="328" key="GridCell.Tab.0.center" timestamp="1583006644083">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1877" height="267" key="GridCell.Tab.0.center/0.0.1280.680/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1582911731141" />
     <state width="1237" height="150" key="GridCell.Tab.0.center/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1582801465603" />
-    <state width="1237" height="56" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1583006401254" />
-    <state width="1237" height="56" key="GridCell.Tab.0.left" timestamp="1583006401254">
+    <state width="1237" height="328" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1583006644083" />
+    <state width="1237" height="328" key="GridCell.Tab.0.left" timestamp="1583006644082">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1877" height="267" key="GridCell.Tab.0.left/0.0.1280.680/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1582911731140" />
     <state width="1237" height="150" key="GridCell.Tab.0.left/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1582801465602" />
-    <state width="1237" height="56" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1583006401254" />
-    <state width="1237" height="56" key="GridCell.Tab.0.right" timestamp="1583006401254">
+    <state width="1237" height="328" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1583006644082" />
+    <state width="1237" height="328" key="GridCell.Tab.0.right" timestamp="1583006644083">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1877" height="267" key="GridCell.Tab.0.right/0.0.1280.680/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1582911731141" />
     <state width="1237" height="150" key="GridCell.Tab.0.right/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1582801465603" />
-    <state width="1237" height="56" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1583006401254" />
+    <state width="1237" height="328" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1583006644083" />
     <state width="1877" height="372" key="GridCell.Tab.1.bottom" timestamp="1581689464042">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
